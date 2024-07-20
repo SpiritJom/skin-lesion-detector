@@ -1,2 +1,2 @@
 # skin-lesion-detector
-MATLAB project aims to classify skin lesions as either Basal Cell Carcinoma or Vascular Lesion.
+MATLAB project aims to classify skin lesions as either Basal Cell Carcinoma or Vascular Lesion based on the analysis of color properties in images. The script processes a set of images, computes average color values, and identifies by examining color characteristics. The dataset used for this project is from https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification/data?select=images
